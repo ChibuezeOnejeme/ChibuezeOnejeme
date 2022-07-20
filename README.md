@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chibuezeonejeme&label=Profile%20views&color=0e75b6&style=flat" alt="chibuezeonejeme" /> </p>
 
-- 🔭 I’m currently working on **Ecommerce Platform(Django)**
+- 🔭 I’m currently working on **Smart contracts**
 
-- 🌱 I’m currently learning **Django,Flask,Fastapi**
-
-- 👯 I’m looking to collaborate on **Machine Learning projects**
+- 👯 I’m looking to collaborate on these chains **Algorand,Cosmos,Juno,Avalanche**
 
 - 📫 How to reach me **onejemechibueze33@gmail.com**
 

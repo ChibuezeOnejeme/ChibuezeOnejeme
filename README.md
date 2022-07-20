@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Smart contracts**
 
-- 👯 I’m looking to collaborate on these chains **Algorand,ethereum,Solana,Cosmos,Juno,Avalanche**
+- 👯 I’m looking to collaborate on these chains **Algorand,Ethereum,Solana,Cosmos,Juno,Avalanche**
 
 - 📫 How to reach me **onejemechibueze33@gmail.com**
 

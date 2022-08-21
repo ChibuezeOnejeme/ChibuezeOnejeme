@@ -31,7 +31,7 @@ Python was my first language and because its the king of automation , it help me
 
 
 
-### My Blog Posts
+###My Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Python Object Oriented Programming -Part 1](https://ezemillz.hashnode.dev/python-object-oriented-programming-part-1)
 <!-- BLOG-POST-LIST:END -->

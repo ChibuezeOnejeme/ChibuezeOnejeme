@@ -29,10 +29,10 @@ Python was my first language and because its the king of automation , it help me
 
 </details>
 
+
+
+# My Blog Posts
 <!-- BLOG-POST-LIST:START -->
-
-
-
 <!-- BLOG-POST-LIST:END -->
 
 

@@ -39,11 +39,11 @@ Python was my first language and because its the king of automation , it help me
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@chibuezemiller: Guys #Rest or #GraphQL and why??](https://twitter.com/chibuezemiller/status/1562025382118825984)
 - [@chibuezemiller: Iam no longer 👀 &quot;WAGMI&quot; is web3 on recess? @PatrickAlphaC @IvanOnTech @ethereum](https://twitter.com/chibuezemiller/status/1560994738836279300)
 - [@chibuezemiller: The moment you think your code is production ready tadaa 😆🤣🤣 #Python #javascript #DEVCommunity](https://twitter.com/chibuezemiller/status/1558177254999474176)
 - [@chibuezemiller: Iam yet to see a good tutorial of @vyperlang from data types to the end both for video and written, if you have please link me up.#python](https://twitter.com/chibuezemiller/status/1558142146993160192)
 - [@chibuezemiller: If @ethereum switches to proof of stake in some weeks to come ,what is likely the gas Fees?Secondly do you think other chains will be affected based on the fact that people will now build more on ethereum. $python #Solidity](https://twitter.com/chibuezemiller/status/1556946948627767296)
-- [@chibuezemiller: Your price prediction for @ethereum after switch to #proofofstake.mine $6000 to close the year.. #solidity](https://twitter.com/chibuezemiller/status/1555880279797112832)
 <!-- TWITTER:END -->
 
 

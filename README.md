@@ -1,9 +1,8 @@
 ### Hi there I'm Eze: <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
 
-- 🔭 &nbsp;I’m currently working on some cool projects :wink:
-- 🌱 &nbsp;I’m currently learning Vyper,Pyteal and Solidity
-- 💬 &nbsp;Ask me about anything related to Apis/Relational-Databases/Bots/OOP/Django/Fastapi/Flask/Blockchain
+- 🔭 &nbsp;I’m currently working on some cool Datascience and Machine Learning projects :wink:
+- 💬 &nbsp;Ask me about anything related to ML/Apis/Relational-Databases/Bots/OOP/Django/Fastapi/Flask/Blockchain
 - 📫 &nbsp;How to reach me: [@chibuezemiller](https://twitter.com/chibuezemiller) 
 - ⚡ &nbsp;Fun fact: I :heart: selling stuff  &  i'm also a 🧑‍🌾 i raise 🐟 
 

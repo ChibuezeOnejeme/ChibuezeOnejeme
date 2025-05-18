@@ -1,10 +1,10 @@
 ### Hi there I'm Eze  A Software Developer: <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
 
-- 🔭 &nbsp;I’m currently working on some cool Data Science and Machine Learning projects :wink:
-- 💬 &nbsp;Ask me about anything related to ML/Apis/Relational-Databases/Bots/OOP/Django/Fastapi/Flask/Blockchain
+- 🔭 &nbsp;I’m currently working on some cool Python,Solidity,Ai and Machine Learning projects :wink:
+- 💬 &nbsp;Feel free to ask me anything about Python/Solidity/Ai/Machine learning/Databases/Bots/OOP/Django/Fastapi/Flask/Blockchain
 - 📫 &nbsp;How to reach me: [@chibuezemiller](https://twitter.com/chibuezemiller) 
-- ⚡ &nbsp;Fun fact: I :heart: selling stuff  &  i'm also a 🧑‍🌾 i raise 🐟 
+- ⚡ &nbsp;Fun fact: I :heart: Sales & Marketing Too 
 
 
 

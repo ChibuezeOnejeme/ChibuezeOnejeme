@@ -4,7 +4,7 @@
 - 🔭 &nbsp;I’m currently working on some cool Python,Solidity,Ai and Machine Learning projects :wink:
 - 💬 &nbsp;Feel free to ask me anything about Python/Solidity/Ai/Machine learning/Databases/Bots/OOP/Django/Fastapi/Flask/Blockchain
 - 📫 &nbsp;How to reach me: [@chibuezemiller](https://twitter.com/chibuezemiller) 
-- ⚡ &nbsp;Fun fact: I :heart: Sales & Marketing Too 
+- ⚡ &nbsp;Fun fact: I :heart: Networking and Building  Great Products.
 
 
 

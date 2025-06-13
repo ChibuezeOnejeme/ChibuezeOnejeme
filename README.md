@@ -1,32 +1,30 @@
-### Hi there I'm Eze  A Software Developer: <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
+<h1 align="center">Hi there, I'm Eze 👋</h1>
+<p align="center">
+  🚀 Software Developer | 🧠 AI/ML Engineer | 🛠️ Backend Specialist | 🌍 Blockchain Explorer
+</p>
 
+---
 
-- 🔭 &nbsp;I’m currently working on some cool Python,Solidity,Ai and Machine Learning projects :wink:
-- 💬 &nbsp;Feel free to ask me anything about Python/Solidity/Ai/Machine learning/Databases/Bots/OOP/Django/Fastapi/Flask/Blockchain
-- 📫 &nbsp;How to reach me: [@chibuezemiller](https://twitter.com/chibuezemiller) 
-- ⚡ &nbsp;Fun fact: I :heart: Networking and Building  Great Products.
+### 🔍 About Me
 
+I'm a **Python developer and AI engineer** with a passion for building scalable systems that solve real-world problems. My journey began in **Marketing and Sales**, leading high-performing teams across FMCG and Pharma sectors. Now, I bring that business insight into tech—automating workflows, crafting APIs, and building smart applications.
 
+- 💡 I build with **Django, FastAPI, Flask**, and deploy using **Docker, GitHub Actions**, and **Nginx**.
+- 🤖 I experiment with **LLMs, RAG pipelines**, and **intelligent agents** using **LangChain**, **Hugging Face**, and **OpenAI API**.
+- 📊 I’ve worked on **real-time data pipelines**, **e-commerce platforms**, and **data visualization dashboards**.
+- 🌐 I’m exploring **Web3** and how **blockchain** can enable trustless systems.
 
-<details>
- <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
-  <br/>
+---
 
-I am a Sales and Business development professional with over 8 years of experience working for a fortune 500 company turned Fullstack Developer.
+### 🧰 Tech Stack
 
-### Personal Story
-I graduated with a Marketing Degree and have explored the business environment,i have worked in the pharmaceutical space as well as the fmcg sector, my job titles are as follows ;channel innovation executive,Trade marketing representative, Business Development Representaive,Distributor Developer and Sales Manager.
+```text
+Python, JavaScript, SQL, HTML, CSS, Bash, Django, Flask, FastAPI, Bootstrap, Jinja2, 
+Docker, Git, GitHub Actions, GitLab CI/CD, Linux, Nginx, Heroku, Pytest, VS Code, 
+PostgreSQL, MySQL, MongoDB, Redis, Apache Kafka, Apache Spark, Apache Airflow, 
+Scikit-learn, TensorFlow, PyTorch, Transformers (Hugging Face), LangChain, OpenAI API, 
+Pandas, NumPy, Matplotlib, Jupyter Notebook, Power BI, Tableau
 
-  As a Sales Manager I have Managed and led 11(Eleven) Business Development Represntative and 20 distributors.
-  
-I have noticed from experience that many business tasks are done manually which led to alot of down time, wastages and ineficiencies.
-  
-The above business problem of manual and tedious tasks sparked my interest to search for solution ,which led me to programming.
-  
-Python was my first language and because its the king of automation , it help me speedup processes,improve collaborations and infact i decided to solve the business problem from the side of 💻.
-
-
-</details>
 
 
 

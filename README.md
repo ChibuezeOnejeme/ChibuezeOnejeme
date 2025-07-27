@@ -1,26 +1,29 @@
 <h1 align="center">Hi there, I'm Eze 👋</h1>
 <p align="center">
-  🚀 DevOps Engineer | 🛠️ Cloud & Automation Specialist | 🐍 Python Developer
+  🚀 DevOps Engineer | ☁ AWS | Azure | GCP | 🐍 Python Automation
 </p>
 
 ---
 
 ### 🔍 About Me
 
-I'm a **DevOps Engineer with strong Python development expertise**, passionate about designing scalable, automated, and resilient infrastructures. My journey started in **Marketing & Sales**, where I led high-performing teams in the Pharma FMCG and Service sectors. Today, I blend business insight with **cloud engineering and automation**, ensuring faster, more reliable software delivery.
+I'm a **DevOps Engineer with strong Python development expertise**, passionate about **cloud infrastructure, automation, and reliable deployments**. I started in **Marketing & Sales** (Pharma FMCG & Services), but today I focus on **building, automating, and monitoring cloud-native systems** across **AWS, Azure, and GCP**.
 
-- ☁ **Cloud & Containers:** Skilled in AWS (EC2, S3, IAM), Docker, and Kubernetes (EKS, K3s).  
-- 🔧 **Automation & IaC:** Experienced with Terraform, Ansible, GitHub Actions, and CI/CD pipelines.  
-- 📈 **Monitoring & Reliability:** Implemented **Prometheus, Grafana**, and **Uptime Kuma** for metrics, dashboards, and uptime checks.  
-- 🐍 **Python Strength:** Build DevOps automation tools, infrastructure scripts, and APIs using Python (Django, FastAPI).  
-- ⚡ **Focus Areas:** Infrastructure automation, deployment pipelines, observability, and security best practices.
+- ☁ **Multi-Cloud Expertise:** Deploy and manage infrastructure across **AWS, Azure, and GCP**.  
+- 🔧 **Automation & IaC:** Skilled in **Terraform, Ansible, and CI/CD pipelines** (GitHub Actions, GitLab CI/CD).  
+- 📈 **Observability:** Designed monitoring stacks with **Prometheus, Grafana, and Uptime Kuma**.  
+- 🐍 **Python Edge:** Build DevOps automation tools, infrastructure scripts, and APIs with **Django and FastAPI**.  
+- ⚡ **Focus Areas:** Cloud provisioning, container orchestration, infrastructure security, and serverless workflows.
 
 ---
 
 ### 🧰 Tech Stack
 
-**DevOps & Cloud:**  
-AWS (EC2, S3, IAM), Docker, Kubernetes (EKS, K3s), Terraform, Ansible, GitHub Actions, GitLab CI/CD, Nginx, Linux, Hetzner, Traefik, Caddy.  
+**Cloud Platforms:**  
+AWS (EC2, S3, IAM), **Azure (VMs, Blob Storage, AKS)**, **GCP (GCE, GKE, Cloud Storage)**.  
+
+**DevOps & Containers:**  
+Docker, Kubernetes (EKS, AKS, GKE, K3s), Helm, Terraform, Ansible, GitHub Actions, GitLab CI/CD, Nginx, Linux, Hetzner, Traefik, Caddy.  
 
 **Monitoring & Observability:**  
 Prometheus, Grafana, Uptime Kuma, ELK Stack.  
@@ -38,35 +41,26 @@ VS Code, Pytest, Apache Airflow, Git, GitHub, GitLab.
 
 ### 🚀 Featured DevOps Projects
 
-- **Containerized Django Web App:**  
-  Dockerized and deployed Django + PostgreSQL on AWS EC2 & Hetzner VPS with Nginx reverse proxy and SSL. Automated CI/CD with GitHub Actions.
+- **Cloud-Native Django Web App:**  
+  Containerized and deployed Django + PostgreSQL across **AWS EC2, Azure VM, and GCP Compute Engine**, with **Nginx reverse proxy and SSL**. Automated CI/CD with GitHub Actions.
 
-- **Infrastructure as Code with Terraform:**  
-  Provisioned AWS EC2, S3, and VPC setups with Terraform. Integrated Terraform with Kubernetes for deploying microservices to AWS EKS.
+- **Multi-Cloud Infrastructure as Code:**  
+  Provisioned **AWS, Azure, and GCP infrastructure** (VMs, buckets, VPCs) using **Terraform**. Integrated Kubernetes clusters (EKS, AKS, GKE) for scalable workloads.
 
 - **Configuration Management with Ansible:**  
-  Automated server configurations, package installations, and deployments across Linux/Windows nodes using Ansible playbooks and dynamic inventories.
+  Automated Linux/Windows configurations, package setups, and deployments using **Ansible playbooks and dynamic inventories**.
 
 - **Monitoring Stack:**  
-  Built self-hosted monitoring with Prometheus + Grafana dashboards and Uptime Kuma for real-time service health checks.
+  Deployed **Prometheus + Grafana dashboards** for real-time metrics and **Uptime Kuma** for service health monitoring.
 
 ---
 
 ### 🌱 Current Focus
-- Mastering **Kubernetes orchestration** (Helm, Kustomize) and **cloud-native CI/CD pipelines**.  
-- Exploring **serverless DevOps (AWS Lambda, EventBridge)** and **GitOps workflows (ArgoCD)**.  
-- Expanding automation expertise with **advanced Ansible and Terraform modules**.
+- Deepening expertise in **multi-cloud DevOps (AWS, Azure, GCP)**.  
+- Mastering **Kubernetes orchestration** (Helm, Kustomize) and **GitOps (ArgoCD)**.  
+- Automating **cloud cost management and serverless workflows** (AWS Lambda, Azure Functions, GCP Cloud Run).  
 
 ---
 
 ### 📫 Let's Connect
 - [LinkedIn](#) | [Email](#) | [Portfolio](#)
-
-
-
-
-
-
-
-
-

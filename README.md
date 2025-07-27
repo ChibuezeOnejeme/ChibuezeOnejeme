@@ -63,4 +63,4 @@ VS Code, Pytest, Apache Airflow, Git, GitHub, GitLab.
 ---
 
 ### 📫 Let's Connect
-- [LinkedIn](#) | [Email](#) | [Portfolio](#)
+- [LinkedIn](#) | [Email](onejemechibueze33@gmail.com) | [Portfolio](#)
